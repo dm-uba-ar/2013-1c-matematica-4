@@ -1,9 +1,53 @@
-# Matemática 4 — Primer cuatrimestre de 2013
+# Matemática 4 - Análisis Matemático III
 
-## Prácticas
+Primer cuatrimestre 2013
 
-- [Lista de ejercicios adicionales a la práctica 7: Separación de variables](adicional%20practica%207.pdf)
+### 
 
-## Página original
+---
 
-[Página de la cursada en el CMS](https://cms.dm.uba.ar/academico/materias/1ercuat2013/matematica_4)
+
+
+## NOVEDADES
+
+## Ya esta el horario y la aula del primer parcial. Se recuerda que es obligatoria la lectura de las [normas de seguridad.](http://www.dm.uba.ar/varios/normseg.html)
+
+\
+
+## Docentes y Aulas --- | | Docentes | Mi | Vi | | --- | --- | --- | --- | | Práctica 1 (Mi-Vi 8 a 11hs) | Marcela Fabio-Javier Gargiulo Acea | Aula 4 pab.I | Aula 3 pab.I | | Teórica 1 (Mi-Vi 11 a 13 hs) | Diego Rial | Aula 4 pab.I | Aula 3 pab.I | | Teórica 2 (Mi-Vi 17 a 19 hs) | Jorge Devoto | Aula 6 pab.I | Aula 3 pab.II | | Práctica 2(Mi-Vi 19 a 22 hs) | Analía Silva-Mariana Bustamante | Aula 6 pab.I | Aula 3 pab.II | Programa general de la materia --- 1. Funciones analíticas u holomorfas Números complejos. Funciones de variable compleja. Las funciones elementales en campo complejo. Límites y continuidad. Funciones analíticas. El cálculo diferencial e integral complejo. Fórmulas integrales de Cauchy. El teorema de Morera. El teorema de Liouville. El teorema del módulo máximo. Fórmulas integrales de Poisson para el círculo y para el semiplano. Series funcionales en el campo complejo. Serie de Taylor y serie de Laurent. Singularidades. Polos y residuos. Cálculo de integrales definidas. 2. Series e Integrales de Fourier Series de Fourier. Desigualdad de Bessel. Igualdad de Parseval. El teorema de óptima aproximación en media cuadrática. Condición suficiente para la convergencia puntual de series de Fourier. Transformada de Fourier. Transformada de Laplace. Aplicaciones a la integración de ecuaciones diferenciales ordinarias y en derivadas parciales. 3. Ecuaciones Diferenciales Soluciones de ecuaciones lineales de segundo orden por desarrollo en serie. Singularidad regular. Ecuación hipergeométrica. Ecuación de Legendre. Solución para grandes valores de |x|. Ecuación de Bessel. Materias correlativas --- 1. Matemática 3 (para Cs. de la Atmósfera, Física y Oceanografía) 2. Análisis Matemático II (para Química) Bibliografía sugerida --- 1. Ahlfors, L.V. Complex Analysis. Mc Graw Hill, 1966. 2. Cartan, H. Théorie élémentaire des functions analytiques d'une ou plusiers variables complexes. Hermann, Paris, 1961. 3. Churchill, R.V. Fourier Series and Boundary Value Problems. Mc Graw Hill, N. York, 1941. 4. Churchill, R.V. Complex Variable and Applications. Mc Graw Hill, N. York, 1960. 5. Lang, S. Complex Analysis. Springer Verlag, Graduate Texts in Mathematics 103, 1999. 6. Markushevich, A. Teoría de las Funciones Anal&iaacuteticas. Tomos 1 y 2. Editorial Mir, Moscú, 1960. 7. Rudin, W. Real and Complex Analysis. Mc Graw Hill, New York, 1966. 8. Weinberger, H. A First Course in Partial Differential Equations: with Complex Variables and Transform Methods. Blaisdell Publishing Company, 1965. Exámenes parciales y recuperatorios --- | Exámenes | Fecha | Horario | Aula | Pabellón | | --- | --- | --- | --- | --- | | Primer Examen Parcial | 17 de Mayo | 8 hs | Magna | I | | Segundo Examen Parcial | 5 de Julio | 13hs | Magna | I | | Recuperatorios-Primera Instancia | 12 de julio | 17hs | 3 | II | | Recuperatorios-Segunda Instancia | 19 de Julio | 9hs | 4 | I |
+
+Listas de Ejercicios Prácticos
+
+---
+
+[1era Lista de ejercicios prácticos: Repaso de nociones básicas](http://www.dm.uba.ar/materias/matematica_4/2007/2/practica1.pdf)
+
+[2da Lista de ejercicios prácticos: Propiedades topológicas de los números complejos](http://www.dm.uba.ar/materias/matematica_4/2007/2/practica2.pdf)
+
+[3era Lista de ejercicios prácticos: Funciones holomorfas](http://www.dm.uba.ar/materias/matematica_4/2007/2/practica3.pdf)
+
+[4ta Lista de ejercicios prácticos: Series de potencias](http://www.dm.uba.ar/materias/matematica_4/2007/2/practica4.pdf)
+
+[5ta Lista de ejercicios prácticos: Integrales de camino y teorema de Cauchy](http://www.dm.uba.ar/materias/matematica_4/2007/2/practica5.pdf)
+
+[6ta Lista de ejercicios prácticos: Desarrollos de Laurent](http://www.dm.uba.ar/materias/matematica_4/2007/2/practica6.pdf)
+
+[7ma Lista de ejercicios prácticos: Integrales impropias y series de Fourier](http://www.dm.uba.ar/materias/matematica_4/2007/2/practica7.pdf)
+
+[Lista de ejercicios adicionales a la práctica 7: Separación de variables](adicional practica 7.pdf)
+
+[8va Lista de ejercicios prácticos: Transformada de Fourier y de Laplace \](http://www.dm.uba.ar/materias/matematica_4/2007/2/practica8.pdf)
+
+Tablas y algunos apuntes
+
+[Integrales impropias](http://www.dm.uba.ar/materias/matematica_4/2007/1/calc_int.pdf)
+
+[Series de Fourier](http://www.dm.uba.ar/materias/matematica_4/2007/1/fourier_series.pdf)
+
+[Tabla de Transformadas de Fourier](http://www.dm.uba.ar/materias/matematica_4/2007/1/tablafou.pdf)
+
+[Apunte sobre transformada de Fourier](http://www.dm.uba.ar/materias/matematica_4/2007/1/tdf2000.pdf)
+
+[Tabla de transformadas de Laplace](http://www.dm.uba.ar/materias/matematica_4/2007/1/tablalap.pdf)
+
+[Apunte de transformada de Laplace](http://www.dm.uba.ar/materias/matematica_4/2007/1/tdl2000.pdf)
